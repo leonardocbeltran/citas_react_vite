@@ -1,4 +1,4 @@
-import Paciente from "./paciente"
+import Paciente from "paciente"
 
 const ListadoPacientes = ({pacientes, setPaciente, eliminarPaciente}) => {
 
